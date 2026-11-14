@@ -1,6 +1,6 @@
 # Awesome-Dynamic-Product-Plan-Catalog
 
-# Top Dynamic Product & Plan Catalog Ecosystem
+## Top Dynamic Product & Plan Catalog Ecosystem
 
 **Curated List of SaaS Platforms & Open-Source GitHub Projects**  
 *Focused on PIM, Product Information Enrichment & Multi-Channel Catalog Syndication*  
