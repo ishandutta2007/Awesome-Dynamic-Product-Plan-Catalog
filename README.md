@@ -66,9 +66,9 @@ Below is a comparative breakdown of the top SaaS platforms for dynamic product a
 
 ## 💻 Open-Source GitHub Projects
 
-Explore the leading self-hosted, headless, and community-driven product catalog and PIM engines. Sorted by **GitHub Star Count (descending)**.
+Explore the leading self-hosted, headless, and community-driven product catalog and PIM engines. Sorted by **GitHub Stars_Count (descending)**.
 
-| Project | Star Badge | Primary Language | Description |
+| Project | Stars_Badge | Primary Language | Description |
 |---|---|---|---|
 | **[Medusa](https://github.com/medusajs/medusa)** | [![Stars](https://img.shields.io/github/stars/medusajs/medusa?style=social&color=white)](https://github.com/medusajs/medusa/stargazers) | TypeScript / Node.js | **Next-generation modular commerce and product catalog engine.** Provides extensible product data structures, multi-currency pricing lists, variant management, automated promotion rules, and headless API-first architecture designed for custom digital storefronts. |
 | **[Bagisto](https://github.com/bagisto/bagisto)** | [![Stars](https://img.shields.io/github/stars/bagisto/bagisto?style=social&color=white)](https://github.com/bagisto/bagisto/stargazers) | PHP / Laravel | **Comprehensive open-source commerce and catalog ecosystem.** Offers multi-channel inventory, configurable attribute families, downloadable/virtual product plans, localized catalogs, and built-in marketplace functionality with an intuitive administrative panel. |
